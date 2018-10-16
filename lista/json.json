@@ -1,0 +1,6 @@
+[
+  { "title" : "venom",    "director" : [{"imie":"Ruben","nazwisko":"Fleischer"}], "date" : "2018", "genres" : ["akcja"],    "actors":[{"aktor1":[{"imie1":"imie11","nazwisko1":" nazwisko11"}],"aktor2":[{"imie2":"imie12","nazwisko2":" nazwisko12"}]}]},
+  { "title" : "kon",      "director" : [{"imie":"kuc","nazwisko":"Bonifacy"}],    "date" : "2018", "genres" : ["horror"],   "actors":[{"aktor1":[{"imie1":"imie11","nazwisko1":" nazwisko11"}],"aktor2":[{"imie2":"imie12","nazwisko2":" nazwisko12"}]}]},
+  { "title" : "Rrrrrrr",  "director" : [{"imie":"Adam","nazwisko":"Adamowski"}],  "date" : "2018", "genres" : ["komedia"],  "actors":[{"aktor1":[{"imie1":"imie11","nazwisko1":" nazwisko11"}],"aktor2":[{"imie2":"imie12","nazwisko2":" nazwisko12"}]}]},
+  { "title" : "Mmmm",     "director" : [{"imie":"Mrrr","nazwisko":"Mrau"}],       "date" : "2015", "genres" : ["romans"],   "actors":[{"aktor1":[{"imie1":"imie11","nazwisko1":" nazwisko11"}],"aktor2":[{"imie2":"imie12","nazwisko2":" nazwisko12"}]}]}
+]
